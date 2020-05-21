@@ -4,14 +4,14 @@ public class Question6 {
 
 	public static void main(String[] args) {
 
-		String bob = "Bob";
-		String jill = "Jill";
-		String betty = "Betty";
-		String herb = "Herb" ;
-		String james = "James";
+		String name1 = "Bob";
+		String name2 = "Jill";
+		String name3 = "Betty";
+		String name4 = "Herb" ;
+		String name5 = "James";
 		
 		
-		System.out.println(bob + ", " + jill + ", " + betty + ", " + herb + ", " + james);
+		System.out.println(nme1 + ", " + name2 + ", " + name3 + ", " + name4 + ", " + name5);
 		
 		
 		
